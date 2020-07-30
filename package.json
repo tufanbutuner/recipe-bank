@@ -1,0 +1,23 @@
+{
+  "name": "recipe-bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tufanbutuner/recipe-bank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tufanbutuner/recipe-bank/issues"
+  },
+  "homepage": "https://github.com/tufanbutuner/recipe-bank#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
